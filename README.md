@@ -10,13 +10,15 @@
 ```
 
 ## Summary Table
-| Tool | Compatible<br>Providers | Sample<br>Results | Brief<br>Description |
-|---|---|---|---|
-| [Claude Code](https://github.com/anthropics/claude-code) | Anthropic |  |  |
-| [OpenAI Codex](https://github.com/openai/codex) | Many (OpenAI, OpenRouter, Gemini, Ollama, etc.) |  |  |
-| [Aider](https://github.com/Aider-AI/aider) | Many (OpenAI, Anthropic, DeepSeek, etc.) |  |  |
-| [Codebuff](https://www.codebuff.com) | Proprietary |  |  |
+| Tool | Compatible<br>Providers | Sample<br>Results |
+|---|---|---|
+| [Claude Code](https://github.com/anthropics/claude-code) | Anthropic | ![Claude Code](sample-landing-page/claude-code.png) |
+| [OpenAI Codex](https://github.com/openai/codex) | Many (OpenAI, OpenRouter, Gemini, Ollama, etc.) | ![OpenAI Codex](sample-landing-page/openai-codex.png) |
+| [Aider](https://github.com/Aider-AI/aider) | Many (OpenAI, Anthropic, DeepSeek, etc.) | ![Aider](sample-landing-page/aider.png) |
+| [Codebuff](https://www.codebuff.com) | Proprietary | ![Codebuff](sample-landing-page/codebuff.png) |
 
+The sample results above were generated from the following prompt:
+> Read MARKETING.md and then make the best designed landing page for this product. Particularly focus on what's shown above the fold. Use this as an opportunity to showcase your design skills.
 
 ## Actively Maintained Tools
 * **Claude Code**
