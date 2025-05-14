@@ -18,6 +18,7 @@
 |---|---|---|
 | [Claude Code](https://github.com/anthropics/claude-code) | Anthropic | ![Claude Code](sample-landing-page/claude-code.png) Cost: $0.15 |
 | [OpenAI Codex](https://github.com/openai/codex) | Many (OpenAI, OpenRouter, Gemini, Ollama, etc.) | ![OpenAI Codex](sample-landing-page/openai-codex.png) Cost: Unknown |
+| [AmpCode](https://ampcode.com/) | Proprietary | ![AmpCode](sample-landing-page/ampcode.png) Cost: $0.27 |
 | [Aider](https://github.com/Aider-AI/aider) | Many (OpenAI, Anthropic, DeepSeek, etc.) | ![Aider](sample-landing-page/aider.png) Cost: $0.02 |
 | [Codebuff](https://www.codebuff.com) | Proprietary | ![Codebuff](sample-landing-page/codebuff.png) Cost: $1.11 |
 
@@ -36,6 +37,9 @@ The sample results above were generated from the following prompt:
     - 33k stars on GitHub
     - Python-based
 
+* **AmpCode**
+    - https://ampcode.com/
+
 * **Codebuff**
     - https://www.codebuff.com
 
@@ -47,9 +51,6 @@ The sample results above were generated from the following prompt:
     - https://github.com/ai-christianson/RA.Aid
     - "It is a standalone coding agent built on LangGraph's agent-based task execution framework. The tool provides an intelligent assistant that can help with research, planning, and implementation of multi-step development tasks. RA.Aid can optionally integrate with aider."
 
-* **AmpCode**
-    - https://ampcode.com/
-    - Currently in closed beta
 
 ## Not Directly Coding Agents but Potentially Useful
 
