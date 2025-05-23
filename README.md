@@ -26,6 +26,7 @@ The sample results above were generated from the following prompt:
 > Read MARKETING.md and then make the best designed landing page for this product. Particularly focus on what's shown above the fold. Use this as an opportunity to showcase your design skills.
 
 ## Actively Maintained Tools
+### Single Agent Tools
 * **Claude Code**
     - https://github.com/anthropics/claude-code
 
@@ -43,6 +44,10 @@ The sample results above were generated from the following prompt:
 * **Codebuff**
     - https://www.codebuff.com
 
+* **Plandex**
+    - https://github.com/plandex-ai/plandex
+    - 13k stars on GitHub
+
 * **Open Codex**
     - https://github.com/ymichael/open-codex
     - fork of OpenAI Codex that works with more LLMs
@@ -51,8 +56,15 @@ The sample results above were generated from the following prompt:
     - https://github.com/ai-christianson/RA.Aid
     - "It is a standalone coding agent built on LangGraph's agent-based task execution framework. The tool provides an intelligent assistant that can help with research, planning, and implementation of multi-step development tasks. RA.Aid can optionally integrate with aider."
 
+### Multi Agent Tools
+* **Claude Squad**
+    - https://github.com/smtg-ai/claude-squad
+    - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 
-## Not Directly Coding Agents but Potentially Useful
+### Other Tools
+* **Vibe Compiler (vibec)**
+    - https://github.com/Strawberry-Computer/vibe-compiler
+    - vibec is a unique compiler that processes markdown-based prompt stacks to generate code, tests, and documentation. It can compile itself through a bootstrap process, evolving its own implementation (bin/vibec.js) across numbered stages. The tool supports both static (.md) and dynamic (.js) plugins, maintains staged outputs in output/stacks/ for Git history, and aggregates the latest runtime version in output/current/ using a "Last-Wins" merge strategy.
 
 * **AIChat**
     - https://github.com/sigoden/aichat
