@@ -48,6 +48,14 @@ The sample results above were generated from the following prompt:
     - https://github.com/plandex-ai/plandex
     - 13k stars on GitHub
 
+* **OpenHands** (formerly OpenDevin)
+    - https://github.com/All-Hands-AI/OpenHands
+    - 37k stars on GitHub
+    - AI-driven software development agent that can modify code, run commands, browse the web, and call APIs
+    - Solves over 50% of real GitHub issues in software engineering benchmarks
+    - Requires state-of-the-art LLMs (works best with Claude Sonnet 4)
+    - Docker-based installation
+
 * **Open Codex**
     - https://github.com/ymichael/open-codex
     - fork of OpenAI Codex that works with more LLMs
