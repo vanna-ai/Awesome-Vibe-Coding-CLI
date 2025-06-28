@@ -60,6 +60,13 @@ The sample results above were generated from the following prompt:
     - https://github.com/ymichael/open-codex
     - fork of OpenAI Codex that works with more LLMs
 
+* **OpenCode**
+    - https://github.com/sst/opencode
+    - 6.7k+ stars on GitHub
+    - AI coding agent built for the terminal
+    - 100% open source and not coupled to any provider
+    - Works with various LLM providers (Anthropic recommended, also supports OpenAI)
+
 * **Raid**
     - https://github.com/ai-christianson/RA.Aid
     - "It is a standalone coding agent built on LangGraph's agent-based task execution framework. The tool provides an intelligent assistant that can help with research, planning, and implementation of multi-step development tasks. RA.Aid can optionally integrate with aider."
