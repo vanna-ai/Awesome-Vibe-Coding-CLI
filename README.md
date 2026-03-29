@@ -89,6 +89,10 @@ The sample results above were generated from the following prompt:
     - https://github.com/cloi-ai/cloi
     - AI CLI debugger
 
+* **claude-dash**
+    - https://github.com/krabat-l/claude-dash
+    - Real-time statusline for Claude Code showing context health, cost, quota, cache efficiency, tools, and git status. Component-based architecture with 5 themes, zero npm dependencies.
+
 ## Unmaintained Tools
 
 * **Codai**
