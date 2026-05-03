@@ -89,6 +89,10 @@ The sample results above were generated from the following prompt:
     - https://github.com/cloi-ai/cloi
     - AI CLI debugger
 
+* **agenttrace**
+    - https://github.com/luoyuctl/agenttrace
+    - Local TUI for inspecting AI coding-agent session logs across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, Qwen Code, Cline, OpenCode/OpenClaw, Kimi CLI, and JSON/JSONL traces. Shows tokens, estimated cost, tool failures, latency, health, diffs, and CI gates.
+
 ## Unmaintained Tools
 
 * **Codai**
