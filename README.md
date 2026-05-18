@@ -77,6 +77,10 @@ The sample results above were generated from the following prompt:
     - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 
 ### Other Tools
+* **Everything OpenAI Codex**
+    - https://github.com/mturac/everything-openai-codex
+    - Open-source Codex workflow bundle with agents, skills, commands, hooks, memory patterns, install profiles, and validation checks.
+
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
     - vibec is a unique compiler that processes markdown-based prompt stacks to generate code, tests, and documentation. It can compile itself through a bootstrap process, evolving its own implementation (bin/vibec.js) across numbered stages. The tool supports both static (.md) and dynamic (.js) plugins, maintains staged outputs in output/stacks/ for Git history, and aggregates the latest runtime version in output/current/ using a "Last-Wins" merge strategy.
