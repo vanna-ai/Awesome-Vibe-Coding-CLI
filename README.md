@@ -89,6 +89,10 @@ The sample results above were generated from the following prompt:
     - https://github.com/cloi-ai/cloi
     - AI CLI debugger
 
+* **ax**
+    - https://github.com/Necmttn/ax
+    - Local telemetry and recall for AI coding agent sessions.
+
 ## Unmaintained Tools
 
 * **Codai**
