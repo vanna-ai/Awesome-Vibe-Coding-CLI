@@ -85,6 +85,10 @@ The sample results above were generated from the following prompt:
     - https://github.com/sigoden/aichat
     - 6k stars, Rust-based
 
+* **SandBase CLI**
+    - https://github.com/sandbaseai/cli
+    - Open-source CLI and local MCP bridge connecting AI coding clients to 2,000+ model APIs
+
 * **Cloi**
     - https://github.com/cloi-ai/cloi
     - AI CLI debugger
