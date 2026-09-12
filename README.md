@@ -109,3 +109,4 @@ The sample results above were generated from the following prompt:
 
 * **Smol AI**
     - https://github.com/smol-ai/developer
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
