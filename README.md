@@ -89,6 +89,12 @@ The sample results above were generated from the following prompt:
     - https://github.com/cloi-ai/cloi
     - AI CLI debugger
 
+* **Sillage**
+    - https://github.com/MarlBurroW/sillage
+    - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine (replaces the terminal, not the agent)
+    - Sessions that outlive the client, full-text search over every conversation, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA with push
+    - MIT, TypeScript, single Docker container
+
 ## Unmaintained Tools
 
 * **Codai**
