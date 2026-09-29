@@ -78,6 +78,12 @@ The sample results above were generated from the following prompt:
 
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in isolated task worktrees
 
+* **agent-manager**
+    - https://github.com/YoanWai/agent-manager
+    - agent-manager is a terminal UI that runs coding-agent CLIs such as Claude Code, Codex, OpenCode, Gemini CLI, Grok Build and Pi side by side, each in its own persistent tmux session, launching your own installed CLI unmodified so logins, subscriptions, config files and MCP servers carry over.
+    - Live status for every session in one list, prompts sent into a session without attaching, optional per-session Git worktrees, and a full-file diff review whose line comments go back to the agent as one prompt
+    - Apache-2.0, Go, runs on macOS and Linux, and on Windows inside WSL2
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
