@@ -83,6 +83,7 @@ The sample results above were generated from the following prompt:
     - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in isolated task worktrees
+- [Ordewell](https://github.com/ordewell/ordewell) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, then runs each task as its own session on the harness you pick per task with its own model and mode, accepting a task only when its completion marker appears in that runner output
 - [Orbi](https://github.com/orbi-build/orbi) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets
 
 ### Other Tools
