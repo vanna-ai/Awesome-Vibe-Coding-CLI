@@ -71,6 +71,12 @@ The sample results above were generated from the following prompt:
     - https://github.com/ai-christianson/RA.Aid
     - "It is a standalone coding agent built on LangGraph's agent-based task execution framework. The tool provides an intelligent assistant that can help with research, planning, and implementation of multi-step development tasks. RA.Aid can optionally integrate with aider."
 
+* **mu**
+    - https://github.com/qybaihe/mu
+    - Coding agent built on pi; a small judge model answers routine decisions at more than 30 decision points (which chunks of long tool output enter the context, whether a command the rules flagged was asked for, whether "done" was verified), each of which can be active, shadow (logged only) or off
+    - Works with any OpenAI- or Anthropic-compatible endpoint, or a ChatGPT, Claude, Grok or Google subscription sign-in
+    - CLI (`npm i -g mu-agent`) and a desktop app for macOS, Windows and Linux; MIT (desktop app Apache-2.0, from AionUi)
+
 ### Multi Agent Tools
 * **Claude Squad**
     - https://github.com/smtg-ai/claude-squad
