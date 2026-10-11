@@ -86,6 +86,12 @@ The sample results above were generated from the following prompt:
 - [Ordewell](https://github.com/ordewell/ordewell) - Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, then runs each task as its own session on the harness you pick per task with its own model and mode, accepting a task only when its completion marker appears in that runner output
 - [Orbi](https://github.com/orbi-build/orbi) - Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets
 
+* **agent-manager**
+    - https://github.com/YoanWai/agent-manager
+    - agent-manager is a terminal UI that runs coding-agent CLIs such as Claude Code, Codex, OpenCode, Gemini CLI, Grok Build and Pi side by side, each in its own persistent tmux session, launching your own installed CLI unmodified so logins, subscriptions, config files and MCP servers carry over.
+    - Live status for every session in one list, prompts sent into a session without attaching, optional per-session Git worktrees, and a full-file diff review whose line comments go back to the agent as one prompt
+    - Apache-2.0, Go, runs on macOS and Linux, and on Windows inside WSL2
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
