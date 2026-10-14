@@ -124,6 +124,12 @@ The sample results above were generated from the following prompt:
     - Mod for the Claude Code CLI that sets the model and reasoning effort of each subagent: asks first, recommends by task kind, or applies a saved default over the agent's request
     - MIT, TypeScript, no network calls
 
+* **Session Panel for Claude Code**
+    - https://github.com/bkaluza/vscode-claude-panel
+    - VS Code extension with a sidebar panel for the Claude Code CLI sessions you run in terminals: live status (working, idle, needs you), running subagents and context usage for each session
+    - Opens or resumes sessions in named, coloured terminals (optionally in a split editor group), switches between them with Cmd+1-9, and reopens them after a restart
+    - MIT, JavaScript
+
 ## Unmaintained Tools
 
 * **Codai**
