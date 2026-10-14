@@ -67,6 +67,14 @@ The sample results above were generated from the following prompt:
     - 100% open source and not coupled to any provider
     - Works with various LLM providers (Anthropic recommended, also supports OpenAI)
 
+* **opencode-rust**
+    - https://github.com/vakandi/opencode-rust
+    - 36 stars on GitHub
+    - Rust, MIT licensed, 21 crates and 571 tests
+    - The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents, no Docker required
+    - Command is `opr`; install with `npm install -g opencode-rust` or `brew install vakandi/tap/opencode-rust`
+    - Docs: https://vakandi.github.io/opencode-rust/
+
 * **Raid**
     - https://github.com/ai-christianson/RA.Aid
     - "It is a standalone coding agent built on LangGraph's agent-based task execution framework. The tool provides an intelligent assistant that can help with research, planning, and implementation of multi-step development tasks. RA.Aid can optionally integrate with aider."
