@@ -119,6 +119,11 @@ The sample results above were generated from the following prompt:
     - Sessions that outlive the client, full-text search over every conversation, an IDE panel (file explorer, editor, diffs, terminal), a board the agents read through its own MCP server, and an installable PWA with push
     - MIT, TypeScript, single Docker container
 
+* **subagent-tuner**
+    - https://github.com/Kruhlikau/subagent-tuner
+    - Mod for the Claude Code CLI that sets the model and reasoning effort of each subagent: asks first, recommends by task kind, or applies a saved default over the agent's request
+    - MIT, TypeScript, no network calls
+
 ## Unmaintained Tools
 
 * **Codai**
