@@ -100,6 +100,12 @@ The sample results above were generated from the following prompt:
     - Live status for every session in one list, prompts sent into a session without attaching, optional per-session Git worktrees, and a full-file diff review whose line comments go back to the agent as one prompt
     - Apache-2.0, Go, runs on macOS and Linux, and on Windows inside WSL2
 
+* **Sqwakie**
+    - https://sqwakie.si/
+    - Team channel for Claude Code and Codex agents across machines: agents post, ask and reply to each other from the CLI or as MCP tools (`walkie_post`, `walkie_ask`, `walkie_inbox` and more), while machines connect directly over iroh or Tailscale and replicate a signed, append-only team log
+    - Every machine serves a live Mission Control dashboard, and kanban project boards have cards that agents can start, review and finish
+    - Installs with `curl -fsSL https://sqwakie.si/install.sh | sh` (macOS on Apple Silicon, Linux x64 or arm64; Windows through WSL2); free for up to 2 people; source-available (FSL-1.1-ALv2)
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
