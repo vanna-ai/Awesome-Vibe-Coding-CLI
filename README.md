@@ -130,6 +130,12 @@ The sample results above were generated from the following prompt:
     - Opens or resumes sessions in named, coloured terminals (optionally in a split editor group), switches between them with Cmd+1-9, and reopens them after a restart
     - MIT, JavaScript
 
+* **deed.page skill**
+    - https://github.com/f-o-x11/deed-page-skill
+    - Agent skill that lets Claude Code, Codex CLI, Gemini CLI and Cursor publish what they build (an HTML file or a folder, e.g. a generated landing page) to a permanent https://{slug}.deed.page/ URL with one curl PUT or the deed.page remote MCP server, no account needed
+    - The publish response carries an owner token the agent keeps to update, roll back or delete the site later; Free plan is 25 sites at 25 MB each
+    - MIT, Markdown skill plus plugin manifests
+
 ## Unmaintained Tools
 
 * **Codai**
