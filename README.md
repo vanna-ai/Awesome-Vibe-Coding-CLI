@@ -135,6 +135,11 @@ The sample results above were generated from the following prompt:
     - Instructions, role prompts and skills that one sync installs into Claude Code, Codex, OpenCode, Cursor, Amp and others: a lead agent plans, delegates to implementer and reviewer subagents, and returns a tested PR
     - MIT, TypeScript (bun)
 
+* **pro-launch**
+    - https://github.com/jack-reson8/pro-launch
+    - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
+    - MIT, Markdown and Python scripts
+
 ## Unmaintained Tools
 
 * **Codai**
