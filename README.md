@@ -147,6 +147,11 @@ The sample results above were generated from the following prompt:
     - Also runs Codex, OpenCode and Goose on the local machine over ACP
     - MIT, TypeScript, macOS and Linux
 
+* **pro-launch**
+    - https://github.com/jack-reson8/pro-launch
+    - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
+    - MIT, Markdown and Python scripts
+
 ## Unmaintained Tools
 
 * **Codai**
