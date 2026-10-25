@@ -130,6 +130,11 @@ The sample results above were generated from the following prompt:
     - Opens or resumes sessions in named, coloured terminals (optionally in a split editor group), switches between them with Cmd+1-9, and reopens them after a restart
     - MIT, JavaScript
 
+* **bounty-guard**
+    - https://github.com/doomsday-network/bounty-guard
+    - CLI, MCP server, and GitHub Action for deterministic AST code verification and on-chain bounty escrow settlement
+    - MIT, Python
+
 * **agent-doctrine**
     - https://github.com/sisig-ai/agent-doctrine
     - Instructions, role prompts and skills that one sync installs into Claude Code, Codex, OpenCode, Cursor, Amp and others: a lead agent plans, delegates to implementer and reviewer subagents, and returns a tested PR
