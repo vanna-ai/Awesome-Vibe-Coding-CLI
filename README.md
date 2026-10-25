@@ -135,6 +135,11 @@ The sample results above were generated from the following prompt:
     - Instructions, role prompts and skills that one sync installs into Claude Code, Codex, OpenCode, Cursor, Amp and others: a lead agent plans, delegates to implementer and reviewer subagents, and returns a tested PR
     - MIT, TypeScript (bun)
 
+* **/call-me**
+    - https://github.com/radres/call-me
+    - Plugin and hosted remote MCP server that let a CLI coding agent such as Claude Code, Codex or Gemini CLI ring or text your iPhone when it needs a decision, and read your spoken or typed reply back as text; works hands free in CarPlay and AirPods
+    - MIT repo; the iPhone app it rings is a paid subscription
+
 ## Unmaintained Tools
 
 * **Codai**
