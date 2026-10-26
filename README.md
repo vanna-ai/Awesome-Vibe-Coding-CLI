@@ -135,6 +135,12 @@ The sample results above were generated from the following prompt:
     - Instructions, role prompts and skills that one sync installs into Claude Code, Codex, OpenCode, Cursor, Amp and others: a lead agent plans, delegates to implementer and reviewer subagents, and returns a tested PR
     - MIT, TypeScript (bun)
 
+* **Open Walnut**
+    - https://github.com/EvanZhang008/open-walnut
+    - Self-hosted web console for Claude Code on your laptop and remote dev boxes: a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops (no tmux), and one browser page (phone too) shows every session and which ones wait for you, with a per-session diff
+    - Also runs Codex, OpenCode and Goose on the local machine over ACP
+    - MIT, TypeScript, macOS and Linux
+
 ## Unmaintained Tools
 
 * **Codai**
