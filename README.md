@@ -152,6 +152,12 @@ The sample results above were generated from the following prompt:
     - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
     - MIT, Markdown and Python scripts
 
+* **Ironheights**
+    - https://github.com/Frank-Masciopinto/ironheights
+    - CLI that scans a coding-agent skill folder (anything with a `SKILL.md`: Claude Code, Codex, Cursor, OpenClaw) before you install it, flagging prompt injection, credential reads, remote-exec installs and persistence with fixed static rules; a clean result is not proof of safety
+    - Reads files as data and never runs them, no telemetry, JSON/SARIF output and CI exit codes (`npx ironheights scan ./skill`)
+    - Apache-2.0, TypeScript (Node.js 20+)
+
 ## Unmaintained Tools
 
 * **Codai**
