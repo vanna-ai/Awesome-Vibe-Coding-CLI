@@ -106,6 +106,12 @@ The sample results above were generated from the following prompt:
     - Live status for every session (working, waiting for you, done), permission prompts as cards you can answer on the PC or from a paired phone, optional per-session Git worktrees (Merge Studio, beta), a Git window, live preview and per-project memory as Markdown notes exposed to Claude over MCP
     - MIT, TypeScript (Electron), Windows 10/11
 
+* **Paradev**
+    - https://github.com/ParadevAI/Paradev
+    - Paradev (formerly Superset) is a desktop app that runs Claude Code, Codex, OpenCode, Gemini CLI and other CLI coding agents side by side, each task in its own Git worktree and branch, launching your own installed agents so subscriptions and config carry over.
+    - Per-agent status in the sidebar, a diff and pull request pane, an in-app browser for each workspace's dev server, and a `superset` CLI and MCP server so agents can create workspaces and launch other agents
+    - Source-available (Elastic License 2.0), TypeScript (Electron), macOS, Linux AppImage (experimental)
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
