@@ -152,6 +152,11 @@ The sample results above were generated from the following prompt:
     - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
     - MIT, Markdown and Python scripts
 
+* **Compaction Task Keeper Lite**
+    - https://github.com/edtrackai/compaction-task-keeper-lite
+    - Claude Code hooks (`PreCompact`, `PostCompact` and `SessionStart`) designed to help keep your task when a long session is compacted: a plain `.agent/TASK.md` is refreshed before compaction and handed back to the model afterwards
+    - MIT, Node.js 20+, no network calls; Claude Code only, checked on Linux against a mock model server
+
 ## Unmaintained Tools
 
 * **Codai**
