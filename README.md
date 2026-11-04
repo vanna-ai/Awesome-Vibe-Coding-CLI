@@ -130,8 +130,8 @@ The sample results above were generated from the following prompt:
     - Opens or resumes sessions in named, coloured terminals (optionally in a split editor group), switches between them with Cmd+1-9, and reopens them after a restart
     - MIT, JavaScript
 
-* **Off the Wall**
-    - https://github.com/toranalytics/off-the-wall
+* **Dude Toldya**
+    - https://github.com/toranalytics/dude-toldya
     - Hooks plugin for the Claude Code and Codex CLIs: quotes your own past corrections back to the agent before it answers, reports what you correct most, and makes the orchestrator name a model for each subagent
     - MIT, JavaScript, no dependencies, no API key
 
