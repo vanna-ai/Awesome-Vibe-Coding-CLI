@@ -158,6 +158,11 @@ The sample results above were generated from the following prompt:
     - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
     - MIT, Markdown and Python scripts
 
+* **Dude Toldya**
+    - https://github.com/toranalytics/dude-toldya
+    - Hooks plugin for the Claude Code and Codex CLIs: quotes your own past corrections back to the agent before it answers, reports what you correct most, and makes the orchestrator name a model for each subagent
+    - MIT, JavaScript, no dependencies, no API key
+
 ## Unmaintained Tools
 
 * **Codai**
