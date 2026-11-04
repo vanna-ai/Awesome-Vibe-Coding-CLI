@@ -141,6 +141,12 @@ The sample results above were generated from the following prompt:
     - Instructions, role prompts and skills that one sync installs into Claude Code, Codex, OpenCode, Cursor, Amp and others: a lead agent plans, delegates to implementer and reviewer subagents, and returns a tested PR
     - MIT, TypeScript (bun)
 
+* **Ponder**
+    - https://github.com/Quinnod345/ponder
+    - Zero-dependency cognitive verification CLI (`npx @quinnod345/ponder`, `pip install ponder-cli`) and agent skill for Claude Code, Cursor, Codex and OpenClaw that enforces an 8-stage deliberation protocol across 4 adversarial lenses (`skeptic`, `builder`, `dreamer`, `empath`)
+    - Records an append-only session ledger in `.ponder/sessions/` and requires 100% unit coverage and bounded novelty and churn before `ponder verify` exits 0
+    - MIT, JavaScript (Node.js)
+
 * **Open Walnut**
     - https://github.com/EvanZhang008/open-walnut
     - Self-hosted web console for Claude Code on your laptop and remote dev boxes: a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops (no tmux), and one browser page (phone too) shows every session and which ones wait for you, with a per-session diff
