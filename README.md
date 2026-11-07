@@ -179,3 +179,7 @@ The sample results above were generated from the following prompt:
 * **Smol AI**
     - https://github.com/smol-ai/developer
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
+
+### Spoken Context & Local AI MCP Hardware
+
+- [OneMira C1 & onemira-mcp](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with local AI transcription, multi-speaker separation (Speaker ID), Google Native OKF Markdown Wiki, and native Claude/Cursor MCP server ([onemira-mcp](https://github.com/onemira-space/onemira-mcp)) with zero cloud subscription.
