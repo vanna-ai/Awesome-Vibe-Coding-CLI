@@ -106,6 +106,12 @@ The sample results above were generated from the following prompt:
     - Live status for every session (working, waiting for you, done), permission prompts as cards you can answer on the PC or from a paired phone, optional per-session Git worktrees (Merge Studio, beta), a Git window, live preview and per-project memory as Markdown notes exposed to Claude over MCP
     - MIT, TypeScript (Electron), Windows 10/11
 
+* **SpaceApp**
+    - https://github.com/oll4com/spaceapp
+    - SpaceApp is a self-hosted web workspace that runs several coding-agent CLIs (OpenCode, Codex, Claude Code, Gemini CLI, Qwen, Kimi, Grok, DeepSeek and more) side by side as terminal panes in persistent rooms, each on your own account, reachable from a computer, phone or tablet.
+    - Rooms keep their panes across reloads and devices, every CLI shares the same skills and approved MCP servers, managed browser panes sit beside the terminals, and one command installs it (Docker included if missing)
+    - MIT, TypeScript, Linux, macOS and Windows 11 (Docker)
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
