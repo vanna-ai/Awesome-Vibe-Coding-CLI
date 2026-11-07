@@ -106,6 +106,12 @@ The sample results above were generated from the following prompt:
     - Live status for every session (working, waiting for you, done), permission prompts as cards you can answer on the PC or from a paired phone, optional per-session Git worktrees (Merge Studio, beta), a Git window, live preview and per-project memory as Markdown notes exposed to Claude over MCP
     - MIT, TypeScript (Electron), Windows 10/11
 
+* **Orchestrator**
+    - https://github.com/OrchestratorInc/agent-orchestrator
+    - Orchestrator is a desktop app where an orchestrator agent splits a task across parallel workers running Claude Code, Codex, Cursor, Gemini CLI, Aider or another of 38 supported agent CLIs, each in its own git worktree, using your own installed CLIs and subscriptions.
+    - A Kanban board tracks every session's PR through CI and review; failed checks, review comments and merge conflicts go back to the worker that owns the branch
+    - Apache-2.0, runs on macOS, Windows and Linux, with iOS and Android apps for remote sessions
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
