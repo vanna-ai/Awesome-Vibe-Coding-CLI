@@ -158,6 +158,12 @@ The sample results above were generated from the following prompt:
     - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
     - MIT, Markdown and Python scripts
 
+* **DESIGN:OS CLI**
+    - https://github.com/jangtrinh/design-os
+    - Design skill pack and CLI for Claude Code, Codex, Gemini CLI and Antigravity: describe the UI in plain words and the agent builds web, SwiftUI or Figma-file output, then deterministic gates check spacing, typography and WCAG 2.2 AA contrast before it ships
+    - Install with `/plugin marketplace add jangtrinh/design-os` in Claude Code or `npx @easestart/design-os init`; runs locally with no telemetry
+    - Free, source-available (PolyForm Shield 1.0.0), TypeScript and Python
+
 ## Unmaintained Tools
 
 * **Codai**
