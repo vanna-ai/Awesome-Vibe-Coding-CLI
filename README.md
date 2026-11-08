@@ -85,6 +85,11 @@ The sample results above were generated from the following prompt:
     - Works with any OpenAI- or Anthropic-compatible endpoint, or a ChatGPT, Claude, Grok or Google subscription sign-in
     - CLI (`npm i -g mu-agent`) and a desktop app for macOS, Windows and Linux; MIT (desktop app Apache-2.0, from AionUi)
 
+* **Imagera Code**
+    - https://imagera.ai/code
+    - Proprietary subscription CLI built on OpenCode; Claude, GPT, Gemini and many other models on one plan
+    - Install: `npm i -g imagera-code` (macOS, Linux, Windows)
+
 ### Multi Agent Tools
 * **Claude Squad**
     - https://github.com/smtg-ai/claude-squad
