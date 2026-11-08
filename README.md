@@ -106,6 +106,11 @@ The sample results above were generated from the following prompt:
     - Live status for every session (working, waiting for you, done), permission prompts as cards you can answer on the PC or from a paired phone, optional per-session Git worktrees (Merge Studio, beta), a Git window, live preview and per-project memory as Markdown notes exposed to Claude over MCP
     - MIT, TypeScript (Electron), Windows 10/11
 
+* **OMK**
+    - https://github.com/dmae97/omk
+    - Open-source multi-agent coding CLI for the terminal. Switch models mid-session; finish goals only when your test passes.
+    - MIT, TypeScript; install with `npm install -g open-multi-agent-kit`
+
 ### Other Tools
 * **Vibe Compiler (vibec)**
     - https://github.com/Strawberry-Computer/vibe-compiler
