@@ -158,6 +158,12 @@ The sample results above were generated from the following prompt:
     - Claude Code skill for taking a product from zero to one with phase gates: references, naming and trademark checks, style frames, a UI build loop, launch and shipping
     - MIT, Markdown and Python scripts
 
+* **claude-bulkhead**
+    - https://github.com/dooly6276/claude-bulkhead
+    - PreToolUse hooks for Claude Code, Codex, Gemini CLI, Copilot CLI, Cursor and opencode that block destructive agent commands before they run: `rm -rf` through an empty variable, `rm -rf .git`, `pkill` of other sessions, taking another session's port, and `git add -A` of another session's edits
+    - Each block tells the agent the safe command to use instead
+    - MIT, JavaScript, zero dependencies
+
 ## Unmaintained Tools
 
 * **Codai**
