@@ -147,6 +147,12 @@ The sample results above were generated from the following prompt:
     - Records an append-only session ledger in `.ponder/sessions/` and requires 100% unit coverage and bounded novelty and churn before `ponder verify` exits 0
     - MIT, JavaScript (Node.js)
 
+* **VibeShield Action & CLI**
+    - https://github.com/zColdWater/vibeshield-action
+    - Pre-launch security and domain readiness CLI (`curl -fsSL https://vibe-checker.appwrite.network/cli.sh | sh -s -- <domain>`) and GitHub Action (`zColdWater/vibeshield-action@v1`) built for vibe-coded Next.js, Vite, Supabase, and Firebase apps
+    - Catches leaked `NEXT_PUBLIC_*`/`VITE_*` API keys in client JS bundles, exposed `.env`/`.map` files, missing Nonce CSP/HSTS headers, SPF/DKIM/DMARC DNS gaps, and `llms.txt` crawler issues with SARIF output
+    - MIT, JavaScript (Node.js)
+
 * **Open Walnut**
     - https://github.com/EvanZhang008/open-walnut
     - Self-hosted web console for Claude Code on your laptop and remote dev boxes: a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops (no tmux), and one browser page (phone too) shows every session and which ones wait for you, with a per-session diff
